@@ -1,4 +1,4 @@
-package br.org.diversao.mantus.entities;
+package mantus.entities;
 
 import jakarta.persistence.Entity;
 

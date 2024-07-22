@@ -1,4 +1,4 @@
-package br.org.diversao.mantus;
+package mantus;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
