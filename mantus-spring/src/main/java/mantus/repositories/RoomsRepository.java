@@ -1,4 +1,4 @@
-package mantus.repositorys;
+package mantus.repositories;
 
 import java.util.UUID;
 

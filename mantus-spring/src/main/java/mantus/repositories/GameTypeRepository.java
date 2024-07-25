@@ -1,13 +1,13 @@
-package mantus.repositorys;
+package mantus.repositories;
 
 import java.util.UUID;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
-import mantus.entities.GameScores;
+import mantus.entities.GameType;
 
 @Repository
-public interface GameScoresRepository extends JpaRepository<GameScores, UUID> {
+public interface GameTypeRepository extends JpaRepository<GameType, UUID> {
 
 }
